@@ -1,0 +1,19 @@
+.abc{
+    color: white;
+    background-color:black ;
+}
+.c{
+    background-color: lightgray;
+    border: 1px solid;
+}
+.b{
+    background-color: white;
+    border: 1px solid;
+
+}
+.a{
+    font-style: italic;
+}
+table{
+    border: 1px solid black;
+}
